@@ -1,4 +1,4 @@
-![Banner](https://github.com/leydisamanez/leydisamanez/raw/main/banner.png)
+![Banner](https://github.com/leydisamanez/leydisamanez/raw/main/banner2.png)
 
 # 👋 ¡Hola! Soy Leydi Katherinne Michaell Samanez Espinoza
 
