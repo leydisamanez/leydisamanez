@@ -1,5 +1,7 @@
-# 👋 ¡Hola! Soy Leydi Katherinne Michaell Samanez Espinoza
 ![Banner](https://github.com/leydisamanez/leydisamanez/raw/main/banner.png)
+
+# 👋 ¡Hola! Soy Leydi Katherinne Michaell Samanez Espinoza
+
 
 ### 🚀 Ingeniería de Sistemas Computacionales | Desarrollo de Software | Análisis de Datos
 
