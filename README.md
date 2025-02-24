@@ -55,6 +55,6 @@ Busco siempre mejorar mis habilidades en programación, gestión de proyectos y 
 ## 📬 **Contáctame**
 📩 **Email:** [leydisamanez257@gmail.com](mailto:leydisamanez257@gmail.com)  
 💼 **LinkedIn:** [Leydi Katherinne Samanez](https://www.linkedin.com/in/leydi-katherinne-michaell-samanez-espinoza)  
-🌎 **GitHub:** [tuusuario](https://github.com/leydisamanez)  
+🌎 **GitHub:** (https://github.com/leydisamanez)  
 
 🚀 **Siempre abierta a nuevas oportunidades y desafíos. ¡Hablemos!**
